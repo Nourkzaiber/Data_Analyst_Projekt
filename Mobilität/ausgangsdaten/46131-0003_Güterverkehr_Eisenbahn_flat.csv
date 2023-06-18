@@ -1,0 +1,91 @@
+Statistik_Code;Statistik_Label;Zeit_Code;Zeit_Label;Zeit;1_Merkmal_Code;1_Merkmal_Label;1_Auspraegung_Code;1_Auspraegung_Label;2_Merkmal_Code;2_Merkmal_Label;2_Auspraegung_Code;2_Auspraegung_Label;GUT003__Befoerderte_Gueter__t;GUT004__Befoerderungsleistung__tkm
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;201725248;44412331208
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;48220060;20865121275
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;51123597;19223183757
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;16224923;10919856905
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2005;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;317293828;95420493145
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;217889529;50523669000
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;54627719;23831035992
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;56147183;21201601475
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;17453659;11451049129
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2006;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;346118090;107007355596
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;226306630;53784153169
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;56424791;24983134695
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;59101366;22934008384
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;19282950;12913583099
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2007;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;361115737;114614879347
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;239265747;55927833295
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;54335962;24314792268
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;57553452;22574652207
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;20142786;12834590690
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2008;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;371297947;115651868460
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;210722363;48667269124
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;41778518;18831769684
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;44230667;18028124535
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;15355653;10307300967
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2009;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;312087201;95834464310
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;242072523;54529204012
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;45116504;20693641696
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;52089106;20950670014
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;16436579;11143442671
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2010;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;355714712;107316958393
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;257201700;58995584972
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;46255587;20971304978
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;56322697;23015946306
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;14957057;10334562425
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2011;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;374737041;113317398681
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;247116784;56325534201
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;45285775;20310417708
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;58225509;23159485158
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;15512176;10269362502
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2012;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;366140244;110064799569
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;247471748;57585460812
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;45529538;19845345592
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;62919401;23727374271
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;17817087;11454374098
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2013;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;373737774;112612554773
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;238687142;56387421464
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;45888370;20336610800
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;61888608;23886812686
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;18538438;12017962730
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2014;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;365002558;112628807680
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;241670987;59433486987
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;47499943;21276569945
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;57982574;22877384907
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;20160352;13044678968
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2015;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;367313856;116632120807
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;231204730;55548551284
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;45542560;20646630175
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;53751664;21375502565
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;19605999;12802093602
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2016;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;350104953;110372777626
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;221984082;54190284607
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;43315437;19565673715
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;50642470;20348355311
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;18665360;11957226436
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2017;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;334607349;106061540069
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;232236035;59827232196
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;44646732;20317377483
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;50345593;21449450028
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;14697028;9073819239
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2018;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;341925388;110667878946
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;225022756;57921014298
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;45912649;22061421673
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;55087932;23860158338
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;14534542;9271594527
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2019;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;340557879;113114188836
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;208306460;54826968939
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;42836805;20426413362
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;50877682;21731962008
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;18122039;11420401929
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2020;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;320142986;108405746238
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;232004996;61386481424
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;48906545;24301254120
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;57461971;25130906164
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;19190551;12248261248
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2021;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;357564063;123066902956
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERINNERHALB;Verkehr innerhalb Deutschlands;231889933;61075012695
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERSANDAUSSER;Grenzüberschreitender Versand;48119435;23970637141
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;EMPFANGAUSSER;Grenzüberschreitender Empfang;56756441;25251141988
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;VERDURCHGANG;Durchgangsverkehr;22092482;14255778396
+46131;Güterverkehrsstatistik der Eisenbahn;JAHR;Jahr;2022;DINSG;Deutschland insgesamt;DG;Deutschland;VERVZ1;Hauptverkehrsbeziehungen;;Insgesamt;358858291;124552570220
